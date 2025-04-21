@@ -1,15 +1,16 @@
 <h1 align="center">Hey there 👋, I'm Jasneet singh</h1>
 <p align="center">
-  <em>Data Analyst @ NHS England | Aspiring Data Engineer | MSc in Data Science | Always Learning 🚀</em>
+  <em> 📊 Data Analyst @ NHS England | Aspiring Data Engineer | 🎓 MSc Data Science & Analytics | 🇬🇧 NHS England Analyst | 💻 Curious Technologist | Always Learning 🚀</em>
 </p>
 
 ---
 
-### 📊 About Me
+### 💼 About Me
 
-- 🏥 3+ years of experience as a Data Analyst in UK healthcare (NHS England)
-- 🧠 Always curious — love exploring new tools, platforms, and data challenges
+- 🏥 3+ years of experience as a Data Analyst in UK healthcare (NHS England) since 2022
+- 💬 Always curious — love exploring new tools, platforms, and data challenges
 - ☁️ Building skills in Cloud, ETL pipelines, and Big Data
+- 🧠 Fascinated by AI, ETL pipelines, and cloud tools like Azure & GCP
 - 🌍 Actively looking for **Tier-2 Sponsorship** roles in Tech and Healthcare
 
 ---
@@ -48,9 +49,11 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasneet12/)  
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:jsntsingh547@gmail.com)
 
 ---
 
 > *"I may not know everything yet — but I’ll figure it out, one commit at a time."* 🚀  
+
+> Because I always beleive in _“Stay curious. Keep building.”_
