@@ -11,7 +11,7 @@
 - 💬 Always curious — love exploring new tools, platforms, and data challenges
 - ☁️ Building skills in Cloud, ETL pipelines, and Big Data
 - 🧠 Fascinated by AI, ETL pipelines, and cloud tools like Azure & GCP
-- 🌍 Actively looking for **Tier-2 Sponsorship** roles in Tech and Healthcare
+- 🌍 Actively looking for New oppurtunites roles in Tech and domains.
 
 ---
 
